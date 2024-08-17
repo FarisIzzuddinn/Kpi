@@ -42,7 +42,7 @@
                 <div class="custom-bg-white border border-grey border-2 p-3 rounded shadow">
                     <div class="row align-items-center mb-3">
                         <div class="col-auto">
-                            <h5 class="ms-2">ADMIN DASHBOARD test</h5>
+                            <h5 class="ms-2">ADMIN DASHBOARD</h5>
                         </div>
                         <div class="col d-flex justify-content-end">
                             <div class="btn-group">
